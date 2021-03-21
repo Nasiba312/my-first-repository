@@ -1,3 +1,24 @@
 body {
   font-family: sans-serif;
 }
+.code-block {
+  background: rgb(247, 246, 243);
+  padding: 0;
+  margin: 0;
+}
+.section-html-elements code {
+  background-color: #eee;
+  border-radius: 3px;
+}
+
+.section code {
+  color: red;
+}
+
+.section li {
+  margin-bottom: 10px;
+}
+
+.text__code-block {
+  background: rgb(247, 246, 243);
+}
